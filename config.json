@@ -3,7 +3,7 @@
         "presence": {
             "status": "online",
             "activities": [{
-                "name": "Hypixel Server",
+                "name": "SAMP",
                 "type": "WATCHING"
             }]
         }
